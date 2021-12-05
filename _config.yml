@@ -1,1 +1,12 @@
 
+# Setup
+title:               Lanyon
+
+baseurl:             http://peonies22.github.io/
+paginate:            5
+permalink:           pretty
+
+
+# Gems
+plugins:
+  - jekyll-paginate
